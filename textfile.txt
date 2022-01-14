@@ -1,1 +1,4 @@
-now this file is being changed by someone else first we need to pull then push the file for saving changes of others in  file 
+now this file is being changed by someone else first we need to pull then push the file for saving changes of others in  file
+
+now the file is being chaneged locally by one the member of the team and it must be pushed back to github to secure the code to rest of the 
+team  so i al l try pushing the code so it means i need to leave but typing is facinating so i typed another line  
